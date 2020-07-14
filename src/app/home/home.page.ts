@@ -8,9 +8,10 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
   
-  
+  teste:Number = 10;
   constructor() {
     var x = 5;
+    
   }
 
 }
