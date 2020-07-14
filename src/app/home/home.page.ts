@@ -11,6 +11,7 @@ export class HomePage {
   
   constructor() {
     var x = 5;
+    var ola: string;
   }
 
 }
